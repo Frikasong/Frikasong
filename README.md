@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Frikasong
 - 👀 I’m interested in Python.
 - 🌱 I’m currently learning python to make my own website.
-- 💞️ I’m looking to collaborate on python learning and music programming.
+- 💞️ I’m looking for collaboration in python learning and music programming.
 - 📫 How to reach me: frikasong@gmail.com
 
 <!---
